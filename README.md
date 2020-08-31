@@ -1,4 +1,4 @@
-**WARNING: IF YOU ARE NOT SURE ABOUT WHAT YOU ARE DOING, THIS APPLICATION IS NOT RECOMMENDED. RUNNING THIS APPLICATION MAY RESULT IN A BAN, IF NOT USED JUST ON "NOT SUBMITTED" BEATMAPS. I AM NOT RESPONSIBLE FOR THE USAGE OF THIS PROGRAM.**
+**WARNING: IF YOU ARE NOT SURE ABOUT WHAT YOU ARE DOING, THIS APPLICATION IS NOT RECOMMENDED. RUNNING THIS APPLICATION MAY RESULT IN A BAN, IF NOT USED JUST ON "NOT SUBMITTED" BEATMAPS OR PLAYING IN THE "EDIT" SECTION. I AM NOT RESPONSIBLE FOR THE USAGE OF THIS PROGRAM.**
 
 **IMPORTANT: This application runs even when the application is not focused.**
 
@@ -13,13 +13,13 @@ Why this exact skin? because that's the skin I use to play, and it fits the logi
 
 1. Open the hackdetaco.exe file.
 
-2. Select a **NOT SUBMITTED** beatmap and point the cursor like that in the pause menu:
+2. Select a **NOT SUBMITTED** beatmap or go to the **EDIT SECTION** and point the cursor like that in the pause menu:
 ![Cursor position example](https://raw.githubusercontent.com/calmylake/hackdetaco/master/cursor%20position.png)
 
         You may put the mouse a little bit to the left and a little little bit down, like in the example image above.
         That's because you need to avoid the red X that appears if there's a miss.
 
-3. Optional: to get better accuracy % for the macro, press SHIFT+TAB on osu!, so there's no flying notes going to the health bar. This can mess up a little. But that's also something interensting to test.
+3. Optional: to get better accuracy % for the macro, press SHIFT+TAB on osu!, so there's no flying notes going to the health bar. This can mess up the macro a little. But that's also something interensting to test.
 
 4. Press ESC without moving the cursor and hold CTRL (control key).
 
