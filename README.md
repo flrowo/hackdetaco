@@ -31,7 +31,9 @@ Why this exact skin? because that's the skin I use to play, and it fits the logi
 
 4. Press ESC without moving the cursor and hold CTRL (control key).
 
-5. You can stop the application pressing the P key. 
+5. You can stop the application pressing the P key.
+
+6. Do not submit any play to osu! servers, I'm remembering this because using this is risky.
 
 
 # References:
