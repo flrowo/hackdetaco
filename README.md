@@ -6,6 +6,10 @@ Simple macro that plays osu!Taiko, studying/learning purposes!
 
 With this version (v1.0), it is a console application that activates the macro when holding CTRL, that is, if nothing is pressed, it will just read the pixel information. So you need to hold CTRL all along the beatmap.
 
+# Demonstration
+[On Youtube](https://youtu.be/JyVllCoNqJQ)
+[Visualization](https://github.com/calmylake/hackdetaco/blob/master/visual%20example.gif?raw=true)
+
 # Instructions are as follows:
 
 0. Setup: You need to use an specific skin. This skin can be found in this repository as "ekumea's skin(NoBig) ver.1.02.zip".  
