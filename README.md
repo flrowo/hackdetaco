@@ -11,6 +11,9 @@ With this version (v1.0), it is a console application that activates the macro w
 
 ![Gif Visualization](https://raw.githubusercontent.com/calmylake/hackdetaco/master/visual%20example.gif)
 
+### Observations
+- More FPS = more accuracy
+
 # Instructions are as follows:
 
 0. Setup: You need to use an specific skin. This skin can be found in this repository as "ekumea's skin(NoBig) ver.1.02.zip".  
