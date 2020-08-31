@@ -4,7 +4,7 @@
 
 Simple macro that plays osu!Taiko, studying/learning purposes!
 
-# Demonstration
+# Description
 With this version (v1.0), it is a console application that activates the macro when holding CTRL, that is, if nothing is pressed, it will just read the pixel information. So you need to hold CTRL all along the beatmap.
 
 [Full video on Youtube](https://youtu.be/JyVllCoNqJQ)
