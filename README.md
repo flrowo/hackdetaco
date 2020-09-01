@@ -35,6 +35,14 @@ Why this exact skin? because that's the skin I use to play, and it fits the logi
 
 6. Do not submit any play to osu! servers, I'm remembering this because using this is risky.
 
+# Changelog
+v1.0
+
+```first release```
+
+v1.1
+
+```the macro will try to alternate hands``` 
 
 # References:
 
