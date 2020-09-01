@@ -33,7 +33,7 @@ Why this exact skin? because that's the skin I use to play, and it fits the logi
 
 5. You can stop the application pressing the P key.
 
-6. Do not submit any play to osu! servers, I'm remembering this because using this is risky.
+6. **Do not submit any play to the osu!'s servers**, I'm remembering this because using this is risky.
 
 # Changelog
 - v1.0
